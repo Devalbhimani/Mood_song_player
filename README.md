@@ -11,7 +11,7 @@ The **Mood Song Player** is a web-based application that detects a user's mood f
 - 🎶 Plays songs that match detected mood (e.g. Happy, Sad, Angry, Neutral, etc.)
 - 🖱️ Simple interface with one-click mood detection
 - 📱 Responsive frontend using React.js
-- 🔙 Backend integration with Node.js and MongoDB *(optional)*
+- 🔙 Backend integration with Node.js and MongoDB 
 
 ---
 
@@ -30,8 +30,8 @@ The **Mood Song Player** is a web-based application that detects a user's mood f
 | Layer        | Technology                 |
 |--------------|----------------------------|
 | Frontend     | React.js, HTML, CSS        |
-| Backend      | Node.js, Express.js *(optional)* |
-| Database     | MongoDB *(optional)*       |
+| Backend      | Node.js, Express.js  |
+| Database     | MongoDB       |
 | AI/ML Model  | TensorFlow.js / face-api.js / custom emotion model |
 | Deployment   | GitHub Pages / Vercel / Heroku / Render |
 
