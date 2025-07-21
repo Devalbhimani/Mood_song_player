@@ -37,5 +37,4 @@ The **Mood Song Player** is a web-based application that detects a user's mood f
 
 ---
 
-## 📁 Project Structure
 
