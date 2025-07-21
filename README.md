@@ -1,4 +1,4 @@
-# 🎵 Mood Song Player – AI-Powered Emotion Detection from Video
+# 🎵 Mood Song Player – Emotion Detection from Video
 
 The **Mood Song Player** is a web-based application that detects a user's mood from a video using facial emotion recognition and plays songs that match the detected emotion. This AI-powered music player brings personalized music experience based on how you feel – just smile, frown, or express, and let the music match your mood!
 
